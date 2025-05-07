@@ -1,25 +1,23 @@
-# nirantara.daluwatta
-🚀 Welcome to my GitHub! Learn more about me here...
 # 💫 NS Daluwatta | Nirantara Sathsaduni Daluwatta
 
 🎓 Cyber Security Student at Victoria University (Batch 23.2)  
-🌍 From Sri Lanka | 🇮🇹 Currently in Italy  
-🎥 Content Creator at [Days of Niru](https://youtube.com/@daysofniru)  
+🌍 From Sri Lanka 
+🎥 Content Creator at [Days of Niru](https://www.youtube.com/@daysofniru)  
 💻 Tech Explorer | 💡 Lifelong Learner  
 
 ---
 
 ### 🚀 What I'm Working On
-- 🔐 Learning Advanced Cyber Security & Penetration Testing
-- 🛠️ Automating tasks using Python & Bash
-- 🎬 Creating travel & study vlogs for my YouTube channel
+- 🔐 Learning Advanced Cyber Security & Penetration Testing  
+- 🛠️ Exploring new things and learning
+- 🎬 Creating travel & study vlogs for my YouTube channel  
 
 ---
 
 ### 🌱 Currently Learning
 - 🧠 Ethical Hacking with Kali Linux  
 - 📜 Python Scripting for Automation  
-- ☁️ Cloud Security & Networking Basics
+- ☁️ Cloud Security & Networking Basics  
 
 ---
 
@@ -34,15 +32,14 @@
 ---
 
 ### 📈 GitHub Stats
-![Nirantara's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirantara23&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirantara23&layout=compact&theme=radical)
+![Nirantara's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirantara.daluwatta&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirantara.daluwatta&layout=compact&theme=radical)
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: your.email@example.com  
-- 📸 Instagram: [@daysofniru](https://instagram.com/daysofniru)  
-- 🖥️ LinkedIn: [Your LinkedIn](https://linkedin.com)
+### 📫 Contact Me 
+- 🖥️ LinkedIn: [Nirantara Daluwatta](https://www.linkedin.com/in/nirantara-daluwatta-175229264/)  
+- 🎥 YouTube: [Days of Niru](https://www.youtube.com/@daysofniru)
 
 ---
 
